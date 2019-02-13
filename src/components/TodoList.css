@@ -1,0 +1,12 @@
+.todoListContainer {
+    border-style: solid;
+    padding: 25px;
+}
+
+.inputBox {
+    margin-bottom: 15px;  
+}
+
+.todoList {
+    flex: 1;
+}
